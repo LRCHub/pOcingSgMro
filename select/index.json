@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Trigger",
+  "base_artist": "七海うらら",
+  "createdAt": "2026-01-13T20:21:21.123491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trigger Finger",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/01_Trigger_Finger_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trigger Finger",
+      "artist": "Lil Wayne feat. Soulja Boy",
+      "has_synced": true,
+      "path": "select/02_Trigger_Finger_Lil_Wayne_feat._Soulja_Boy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trigger Finger (Feat. Soulja Boy)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_Trigger_Finger_(Feat._Soulja_Boy)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trigger",
+      "artist": "Major Lazer feat. Khalid & Diplo",
+      "has_synced": true,
+      "path": "select/04_Trigger_Major_Lazer_feat._Khalid_&_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trigger",
+      "artist": "Major Lazer & Khalid",
+      "has_synced": true,
+      "path": "select/05_Trigger_Major_Lazer_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trigger Hippie",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/06_Trigger_Hippie_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trigger Happy Hands",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/07_Trigger_Happy_Hands_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trigger Happy Hands (Buffalo Daughter Remix)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/08_Trigger_Happy_Hands_(Buffalo_Daughter_Remix)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Asleep At The Trigger",
+      "artist": "Autolux",
+      "has_synced": true,
+      "path": "select/09_Asleep_At_The_Trigger_Autolux.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trigger Happy",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": false,
+      "path": "select/10_Trigger_Happy_Weird_Al__Yankovic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trigger Hippie",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/11_Trigger_Hippie_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trigger Hippie - Morslide Mix",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/12_Trigger_Hippie_-_Morslide_Mix_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Trigger Hippie (Glide Sitar Mix)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/13_Trigger_Hippie_(Glide_Sitar_Mix)_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trigger Hippie (Newcheeba mix)",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/14_Trigger_Hippie_(Newcheeba_mix)_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Trigger Hippie (Newcheeba Mix)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/15_Trigger_Hippie_(Newcheeba_Mix)_Morcheeba.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trigger",
+      "artist": "七海うらら",
+      "has_synced": false,
+      "path": "select/pl_01_Trigger_七海うらら.txt"
+    }
+  ]
+}
